@@ -20,7 +20,7 @@
 		<a href="nuevo.php">Nuevo usuario</a>
 		<p></p>
 		
-		<table border=1 width="80%">
+		<table>
 			<thead>
 				<tr>
 					<td><b>id usuario</b></td>
